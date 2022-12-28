@@ -3950,3 +3950,39 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+
+
+
+h1.strongKarthik strong {
+	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	background-color: #ffffff;
+	color: #212121;
+	display: inline-block;
+	line-height: 1.65em;
+	margin-right: 0.325em;
+	padding: 0 0.25em 0 0.405em;
+	box-shadow: none;
+	letter-spacing: 0.25em;
+	margin-bottom: 0;
+	text-transform: uppercase;
+
+}
+
+h1.strongKarthik span {
+	-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+	color: #fff;
+	display: inline-block;
+	line-height: 1.65em;
+	letter-spacing: 0.25em;
+	margin-bottom: 0;
+	text-transform: uppercase;
+
+}
+
